@@ -1,0 +1,1 @@
+powershell.exe -noexit -File "Path\To\File\CloseProcesses.ps1"
